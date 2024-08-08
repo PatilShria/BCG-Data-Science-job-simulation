@@ -1,1 +1,2 @@
 # BCG-Data-Science-job-simulation
+Completed a customer churn analysis simulation, demonstrating advanced data analytics skills, identifying essential client data, and outlining a strategic investigation approach using Python, including Pandas and NumPy. Utilised data visualisation techniques for trend interpretation. Engineered and optimised a random forest model, achieving an 89% accuracy rate in predicting customer churn.
